@@ -1,0 +1,36 @@
+{
+  "name": "http-headers",
+  "version": "1.0.0",
+  "description": "Inspect HTTP headers. Security score, caching audit, CORS analysis. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "http-headers": "./index.js",
+    "hheaders": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "http",
+    "headers",
+    "security",
+    "cors",
+    "caching",
+    "hsts",
+    "csp",
+    "inspector"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickCirv/http-headers.git"
+  },
+  "homepage": "https://github.com/NickCirv/http-headers#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/http-headers/issues"
+  }
+}
