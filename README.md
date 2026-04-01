@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # http-headers
 
 > Inspect HTTP headers. Security score, caching audit, CORS check. Zero dependencies.
